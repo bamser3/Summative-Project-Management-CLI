@@ -1,0 +1,29 @@
+{
+    "users": [
+        {
+            "username": "Grant",
+            "email": "grant@mail.com",
+            "role": "User"
+        },
+        {
+            "username": "Alex",
+            "email": "alex@example.com",
+            "role": "admin"
+        }
+    ],
+    "projects": [
+        {
+            "title": "application",
+            "description": "project-management-tool",
+            "due_date": "07/05/26",
+            "id": 1
+        },
+        {
+            "title": "Website",
+            "description": "Art sharing site",
+            "due_date": "07/05/26",
+            "id": 2
+        }
+    ],
+    "tasks": []
+}
