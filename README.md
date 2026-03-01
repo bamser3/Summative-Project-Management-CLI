@@ -95,6 +95,3 @@ pytest
 Tests check that users, projects, and tasks are correctly saved and loaded from the JSON storage file.
 
 ---
-
-```
-```
